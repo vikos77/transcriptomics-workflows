@@ -1,0 +1,13 @@
+sample_id,title,source,organism,treatment
+GSM8717920,Control sample 1 of Klebsiella pneumonia RJF293,RNA-seq of Klebsiella strain RJF293 dCas9-sgRNA-control sample,Klebsiella pneumoniae,No application.
+GSM8717921,Control sample 2 of Klebsiella pneumonia RJF293,RNA-seq of Klebsiella strain RJF293 dCas9-sgRNA-control sample,Klebsiella pneumoniae,No application.
+GSM8717922,Control sample 3 of Klebsiella pneumonia RJF293,RNA-seq of Klebsiella strain RJF293 dCas9-sgRNA-control sample,Klebsiella pneumoniae,No application.
+GSM8717923,rmpA knochdown sample 1 of Klebsiella pneumonia RJF293,RNA-seq of Klebsiella strain RJF293 dCas9-rmpA-rmpA knockdown sample,Klebsiella pneumoniae,No application.
+GSM8717924,rmpA knochdown sample 2 of Klebsiella pneumonia RJF293,RNA-seq of Klebsiella strain RJF293 dCas9-rmpA-rmpA knockdown sample,Klebsiella pneumoniae,No application.
+GSM8717925,rmpA knochdown sample 3 of Klebsiella pneumonia RJF293,RNA-seq of Klebsiella strain RJF293 dCas9-rmpA-rmpA knockdown sample,Klebsiella pneumoniae,No application.
+GSM8717926,Control sample 1 of Escherichia coli,RNA-seq of Escherichia coli PLB1K-control sample,Escherichia coli,No application.
+GSM8717927,Control sample 2 of Escherichia coli,RNA-seq of Escherichia coli PLB1K-control sample,Escherichia coli,No application.
+GSM8717928,Control sample 3 of Escherichia coli,RNA-seq of Escherichia coli PLB1K-control sample,Escherichia coli,No application.
+GSM8717929,rmpA overexpression sample 1 of Escherichia coli,RNA-seq of Escherichia coli PLB1K-rmpA-rmpA overexpression sample,Escherichia coli,No application.
+GSM8717930,rmpA overexpression sample 2 of Escherichia coli,RNA-seq of Escherichia coli PLB1K-rmpA-rmpA overexpression sample,Escherichia coli,No application.
+GSM8717931,rmpA overexpression sample 3 of Escherichia coli,RNA-seq of Escherichia coli PLB1K-rmpA-rmpA overexpression sample,Escherichia coli,No application.

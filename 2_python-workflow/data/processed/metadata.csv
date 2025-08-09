@@ -1,0 +1,7 @@
+sample_id,condition,replicate
+PLB1K1,control,1
+PLB1K2,control,2
+PLB1K3,control,3
+PLB1K-rmpA1,rmpA_overexpression,1
+PLB1K-rmpA2,rmpA_overexpression,2
+PLB1K-rmpA3,rmpA_overexpression,3
