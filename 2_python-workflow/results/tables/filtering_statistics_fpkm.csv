@@ -1,2 +1,2 @@
-total_genes,genes_kept,genes_filtered,percentage_filtered,method,threshold
-5013,4488,525,10.47277079593058,Direct FPKM analysis,FPKM ≥ 1.0 in ≥ 3 samples
+total_genes,genes_kept,genes_filtered,percentage_filtered,analysis_method,filtering_threshold
+5013,4488,525,10.47277079593058,Direct FPKM analysis,FPKM >= 1.0 in >= 3 samples
