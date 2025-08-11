@@ -6,7 +6,7 @@ Thumbs.db
 .Rhistory
 .RData
 .Rproj.user/
-
+data/
 # Large data files
 *.fastq
 *.fastq.gz
